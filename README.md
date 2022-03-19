@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 - [X]	User can **view tweets from their home timeline**
 - [X] User is displayed the username, name, and body for each tweet
 - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
-- [ ] User can refresh tweets timeline by pulling down to refresh
+- [X] User can refresh tweets timeline by pulling down to refresh
 
 The following **optional** features are implemented:
 
@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/91232193/157984274-42499d4d-2591-4bcc-a0d0-71a8251e50d4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/91232193/159110630-b8cc6f72-ad8d-49ab-9a20-3b3caf34f43f.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
